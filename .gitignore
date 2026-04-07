@@ -1,0 +1,32 @@
+```
+# Compiled and binary files
+*.mq5c
+*.ex5
+*.o
+*.obj
+*.dll
+*.so
+*.a
+*.out
+
+# Dependencies and build artifacts
+include/
+Libraries/
+MQL5/Libraries/
+MQL5/Files/
+MQL5/Logs/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+```
